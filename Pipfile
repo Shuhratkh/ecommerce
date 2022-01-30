@@ -10,6 +10,7 @@ celery = "==4.4.2"
 braintree = "*"
 weasyprint = "==51"
 django-rosetta = "==0.9.3"
+whitenoise = "==5.1.0"
 
 [dev-packages]
 
